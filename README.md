@@ -1,4 +1,4 @@
-# USGS-Leaflet-Visualization
+# USGS-Earthquake-Monitoring_Leaflet-Visualization
 
 ![Mapbox](https://github.com/SamLingle/USGS-Leaflet-Visualization/blob/master/USGS-Earthquake.png)
 
